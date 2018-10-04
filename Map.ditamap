@@ -2,4 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title/>
+    <topicref href="Topic%20(XSD).dita"/>
+    <topicref href="Concept.dita">
+        <topicref href="Reference.dita">
+            <topicref href="Concept%20(Relax%20NG).dita"/>
+        </topicref>
+    </topicref>
 </map>
