@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <?oxy_attributes AAA="&lt;change type=&quot;modified&quot; oldValue=&quot;a&quot; author=&quot;mihaela-ada&quot; timestamp=&quot;20181004T141334+0000&quot; /&gt;"?>
-    <title AAA="b"/>
+    <title AAA="a"/>
     <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141237+0000" comment="1" id="ir5_t31_jfb"?>
     <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141241+0000" comment="2" parentID="ir5_t31_jfb" id="tf2_531_jfb" mid="3"?>
     <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141247+0000" comment="4" parentID="tf2_531_jfb" mid="2"?>
