@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title AAA="a"/>
+    <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141237+0000" comment="1" id="ir5_t31_jfb"?>
+    <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141241+0000" comment="2" parentID="ir5_t31_jfb" id="tf2_531_jfb" mid="3"?>
+    <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141247+0000" comment="4" parentID="tf2_531_jfb" mid="1"?>
+    <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141244+0000" comment="3" parentID="ir5_t31_jfb" mid="2"?>
+    <topicref href="Concept%20(Relax%20NG).dita">
+        <topicref href="test/someTopic.dita">
+            <topicref href="Task.dita"/>
+        </topicref>
+    </topicref><?oxy_comment_end?><?oxy_comment_end mid="3"?><?oxy_comment_end mid="1"?><?oxy_comment_end mid="2"?>
+    <?oxy_comment_start author="mihaela-ada" timestamp="20181004T141347+0000" comment="5"?>
+    <topicref href="Concept%20(Relax%20NG).dita"/><?oxy_comment_end?>
+</map>
