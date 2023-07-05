@@ -6,4 +6,10 @@
     <context id="pub_1" name="Pub 1">
         <input href="test.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="Dev_1111-1688549673194" name="Dev 1111">
+        <context idref="pub_2"/>
+        <output href="webhelp-output"/>
+        <publication id="webhelp" transtype="webhelp-responsive"/>
+    </deliverable>
 </project>
