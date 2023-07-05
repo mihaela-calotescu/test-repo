@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="pub_1" name="Pub 1">
+        <input href="test.ditamap"/>
+    </context>
+</project>
