@@ -9,4 +9,9 @@
         <output href="pdf-output"/>
         <publication id="webhelp" transtype="webhelp-responsive"/>
     </deliverable>
+    <deliverable id="Dev_2222-1688550025204" name="Dev 2222">
+        <context idref="pub_1"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
