@@ -7,6 +7,7 @@
         <input href="test.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="Dev_1111-1688549673194" name="Dev 1111">
         <context idref="pub_1"/>
         <output href="pdf-output"/>
@@ -16,5 +17,10 @@
         <context idref="pub_1"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="TEST_EDIT-1688550119147" name="TEST EDIT">
+        <context idref="pub_1"/>
+        <output href="pdf-output"/>
+        <publication id="pdf" transtype="pdf-css-html5"/>
     </deliverable>
 </project>
