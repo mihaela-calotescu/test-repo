@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
-    <context id="pub" name="Pub">
-        <input href="Subject Scheme.ditamap"/>
+    <context id="pub" name="Pub3">
+        <input href="Subject%20Scheme.ditamap"/>
     </context>
     <context id="pub_2" name="Pub 2">
         <input href="test 2.ditamap"/>
