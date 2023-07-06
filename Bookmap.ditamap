@@ -4,4 +4,8 @@
     <booktitle>
         <mainbooktitle></mainbooktitle>
     </booktitle>
+<appendix>
+        <topicref href="c3.dita"/>
+        <topicref href="Composite.dita"/>
+    </appendix>
 </bookmap>
