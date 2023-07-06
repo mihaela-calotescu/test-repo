@@ -36,7 +36,7 @@
     </deliverable>
     <deliverable id="DEV_4-1688626900238" name="DEV 4">
         <context idref="pub_3"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
 </project>
