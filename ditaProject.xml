@@ -3,4 +3,10 @@
     <context id="pub_1" name="Pub 1">
         <input href="Bookmap.ditamap"/>
     </context>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="New_DEV-1688630528962" name="New DEV">
+        <context idref="pub_1"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
 </project>
