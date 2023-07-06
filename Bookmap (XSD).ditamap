@@ -5,6 +5,8 @@
         <mainbooktitle>And here</mainbooktitle>
     </booktitle>
     <appendix>
-        <topicref href="Topic.dita"/>
+        <topicref href="Topic.dita">
+            <topicref href="untitled1.dita"/>
+        </topicref>
     </appendix>
 </bookmap>
