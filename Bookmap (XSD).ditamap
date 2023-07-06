@@ -2,6 +2,11 @@
 <bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
     <booktitle>
-        <mainbooktitle></mainbooktitle>
+        <mainbooktitle>And here</mainbooktitle>
     </booktitle>
+    <appendix>
+        <topicref href="Topic.dita">
+            <topicref href="untitled1.dita"/>
+        </topicref>
+    </appendix>
 </bookmap>
