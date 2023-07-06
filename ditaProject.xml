@@ -34,4 +34,9 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
+    <deliverable id="DEV_4-1688626900238" name="DEV 4">
+        <context idref="pub_3"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
 </project>
