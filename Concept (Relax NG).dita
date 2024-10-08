@@ -3,6 +3,9 @@
 <?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <concept id="concept_jfb_wh1_jfb">
     <title>asdadasdasdasd</title>
+    <titlealts>
+        <navtitle>NAVTITLE ELEM</navtitle>
+    </titlealts>
     <shortdesc/>
     <conbody>
         <p/>
